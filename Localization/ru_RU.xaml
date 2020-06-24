@@ -41,7 +41,7 @@
     <!-- 
     GameActivityView 
     -->
-    <sys:String x:Key="LOCGameActivitySources">Источники</sys:String>
+    <sys:String x:Key="LOCGameActivitySources">Данные</sys:String>
     <sys:String x:Key="LOCGameActivityGenres">Жанры</sys:String>
     <sys:String x:Key="LOCGameActivityTotalHours">Всего часов</sys:String>
     <sys:String x:Key="LOCGameActivityTotalHoursByWeeks">Всего часов по неделям</sys:String>
@@ -65,6 +65,6 @@
     <sys:String x:Key="LOCGameActivityWarningCaption">Предупреждения во время сеанса игры</sys:String>
     <sys:String x:Key="LOCGameActivityWarningAt">At</sys:String>
     <sys:String x:Key="LOCGameActivityCpuUsage">Использование CPU</sys:String>
-    <sys:String x:Key="LOCGameActivityRamUsage">RAM usage</sys:String>
+    <sys:String x:Key="LOCGameActivityRamUsage">Использование RAM</sys:String>
 
 </ResourceDictionary>
